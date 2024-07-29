@@ -1,0 +1,1 @@
+mysqldump -u root -p db_backend > db_backend.sql
